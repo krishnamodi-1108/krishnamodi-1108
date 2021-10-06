@@ -3,7 +3,7 @@ Programming Enthusiast From India
 <!--
 **krishna-kusum/krishna-kusum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://app.daily.dev/kusum"><img src="https://api.daily.dev/devcards/ab20ddacec7a4ab5aa7f9077d9d9c8ac.png?r=o9s" width="400" alt="Krishna Modi's Dev Card"/></a>
+<a href="https://app.daily.dev/kusum"><img src="https://github.com/krishna-kusum/krishna-kusum/blob/main/devcard.svg" width="400" alt="Krishna Modi's Dev Card"/></a>
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on Data Structures -->
