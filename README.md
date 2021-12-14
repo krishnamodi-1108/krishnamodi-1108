@@ -7,10 +7,10 @@ Programming Enthusiast From India
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on Data Structures -->
-- 🌱 I’m currently learning C++ Data Structures
+- 🌱 I’m currently learning NodeJS
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about C++, HTML and CSS
+- 💬 Ask me about C++, HTML, CSS, javascript, PostgreSQL and Python
 - 📫 How to reach me: modi.krishnaofficial@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
