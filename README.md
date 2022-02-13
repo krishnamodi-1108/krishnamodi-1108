@@ -10,11 +10,11 @@ Programming Enthusiast From India
 - 🌱 I’m currently learning Java
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about C++, HTML, CSS, javascript, PostgreSQL and Python
-- 📫 How to reach me: modi.krishnaofficial@gmail.com
+- 💬 Ask me about C++, HTML, CSS, javascript, PostgreSQL, NodeJS, ExpressJS and Python
+- 📫 How to reach me: krishnamodi41423@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
+Fun fact:- Well, right now am really happy and smiling, so it's the best to ask me for help. I'll do anything I can  within my boundaries. 
 <br/>
 
 ## 🧰 Languages and Tools:
