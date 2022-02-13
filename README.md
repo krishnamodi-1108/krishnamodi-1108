@@ -7,7 +7,7 @@ Programming Enthusiast From India
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on Data Structures -->
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Java
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about C++, HTML, CSS, javascript, PostgreSQL and Python
