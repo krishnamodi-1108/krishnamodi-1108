@@ -14,7 +14,7 @@ Programming Enthusiast From India
 - 📫 How to reach me: krishnamodi41423@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-Fun fact:- Well, right now am really happy and smiling, so it's the best to ask me for help. I'll do anything I can  within my boundaries. 
+<!-- Fun fact:- Well, right now am really happy and smiling, so it's the best to ask me for help. I'll do anything I can  within my boundaries.  -->
 <br/>
 
 ## 🧰 Languages and Tools:
