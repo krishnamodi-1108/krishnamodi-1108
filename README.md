@@ -21,14 +21,14 @@ I am enthusiastic about software development and constantly seeking to expand my
 
 ```yaml
 name: Krishna Modi  
-located_in: Bengaluru, karnataka
+located_in: Bengaluru, Karnataka
 email: krishnamodi41423@gmail.com
 current_job: Software Engineer
 education:
   [
     "B.Tech in Electronics and Communication Engg."
   ]
-company: Samsung
+company: JP Morgan Chase & Co.
 
 fields_of_interests:
   [
